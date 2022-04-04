@@ -1,0 +1,27 @@
+Belajar Flexbox WPU
+
+Dimuali 5-4-2022
+Selesai 5-4-2022
+
+sampai video 1
+
+Untuk disimpan repositori github @santoso.work
+
+display ada 4
+1. block
+2. inline
+3. inline block
+4. flex
+
+
+
+
+
+
+
+
+
+
+
+
+
