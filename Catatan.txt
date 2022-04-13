@@ -3,7 +3,7 @@ Belajar Flexbox WPU
 Dimuali 5-4-2022
 Selesai 5-4-2022
 
-sampai video 1
+sampai video 2
 
 Untuk disimpan repositori github @santoso.work
 
@@ -15,7 +15,9 @@ display ada 4
 
 
 
-
+Dodumentasi
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 
