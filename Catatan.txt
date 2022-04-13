@@ -1,11 +1,9 @@
 Belajar Flexbox WPU
 
 Dimuali 5-4-2022
-Selesai 5-4-2022
+Selesai 13-4-2022
 
-sampai video 2
-
-Untuk disimpan repositori github @santoso.work
+video 3 sama dengan nobar#23
 
 display ada 4
 1. block
